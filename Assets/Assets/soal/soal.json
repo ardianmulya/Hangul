@@ -1,0 +1,23 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "bi",
+            "activeGameObjectName": "Bentuk1",
+            "imageLetterNames": [
+                "B_P",
+                "K"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "MNP",
+            "activeGameObjectName": "Bentuk2",
+            "imageLetterNames": [
+                "M",
+                "N",
+                "P"
+            ]
+        }
+    ]
+}
